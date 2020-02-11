@@ -44,9 +44,7 @@
 {"number":"39","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ar/master/fonica-rosario.png","name":"Radiofónica FM (Rosario)","streamUrl":"http://200.58.106.247:8628/","yourmuzeId":"0","state":"1"},
 {"number":"40","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ar/master/rock-and-pop.png","name":"Rock And Pop","streamUrl":"http://play-rockandpop.cdn.sion.com:1935/rockandpop/audioweb/playlist.m3u8","yourmuzeId":"0","state":"1"},
 {"number":"41","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ar/master/rqp.png","name":"RQP","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/RQPAAC_SC","yourmuzeId":"0","state":"1"},
-{"number":"42","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ar/master/sonic.png","name":"Sonic FM (Buenos Aires)","streamUrl":"https://streams.radio.co/s57c235a6d/listen","yourmuzeId":"0","state":"1"},
-{"number":"43","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ar/master/vorterix.png","name":","streamUrl":"http://147.135.11.82:9300/","yourmuzeId":"0","state":"1"}
-
+{"number":"42","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ar/master/sonic.png","name":"Sonic FM (Buenos Aires)","streamUrl":"https://streams.radio.co/s57c235a6d/listen","yourmuzeId":"0","state":"1"}
 
 
 ],
